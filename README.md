@@ -11,6 +11,7 @@ Este projeto é um site que você pode fazer sua avaliação sobre o restaurante
 - HTML
 - CSS
 - JavaScript
+- Node.js
 
 ## 📝 Criar o CRUD
   
