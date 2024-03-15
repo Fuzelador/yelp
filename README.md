@@ -20,5 +20,4 @@ Este projeto é um site que você pode fazer sua avaliação sobre o restaurante
 
 ## 📺 Diagrama 
 
-
 ![Diagrama yelp drawio](https://github.com/Fuzelador/yelp/assets/95886821/ac4e0d91-0c7d-4a87-831e-eea280d2faa8)
